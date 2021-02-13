@@ -7,6 +7,7 @@ Ask me about anything if i know i can tell you.
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sandeep-sk.Sandeep-sk)
 [![Github](https://img.shields.io/github/followers/Sandeep-sk?label=Follow&style=social)](https://github.com/Sandeep-sk)
 ## ✉️ Find me on:
+<img src="https://raw.githubusercontent.com/Sandeep-sk/Sandeep-sk/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg">
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: http://www.twitter.com/Sandeep60668003
