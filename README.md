@@ -8,7 +8,7 @@ Ask me about anything if i know i can tell you.
 [![Github](https://img.shields.io/github/followers/Sandeep-sk?label=Follow&style=social)](https://github.com/Sandeep-sk)
 ## ✉️ Find me on:
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: http://www.twitter.com/carlsednaoui
+[1]: http://www.twitter.com/@Sandeep60668003
 
 <p align="center">
  
