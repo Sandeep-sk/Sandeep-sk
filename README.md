@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm currently learning ML.
+Looking forword to learn React and Django framework soon.
+Want to collaborate with anyone on project
+Ask me about anything if i know i can tell you
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Sandeep-sk.Sandeep-sk)
 ## ✉️ Find me on:
 
 
