@@ -7,9 +7,12 @@ Ask me about anything if i know i can tell you.
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sandeep-sk.Sandeep-sk)
 [![Github](https://img.shields.io/github/followers/Sandeep-sk?label=Follow&style=social)](https://github.com/Sandeep-sk)
 ## ✉️ Find me on:
-<img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" />
+
 <p align="center">
- 
+<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /></a> 
+ <a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /></a>
+ <a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125" title="Telegram" /></a>
+ <a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="E-mail" /></a>
  <a href="https://linkedin.com/in/sandeepkumar-b93a861a4"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="c++" height="40" style="vertical-align:top; margin:4px"></a>
  
  <a href="https://Sandeep-sk.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
