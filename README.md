@@ -9,17 +9,12 @@ Ask me about anything if i know i can tell you.
 ## ✉️ Find me on:
 
 <p align="center">
-<a href=""><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /></a> 
- <a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /></a>
- <a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125" title="Telegram" /></a>
- <a href=""><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="E-mail" /></a>
- <a href="https://linkedin.com/in/sandeepkumar-b93a861a4"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="c++" height="40" style="vertical-align:top; margin:4px"></a>
- 
- <a href="https://Sandeep-sk.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/sandeepkumar-b93a861a4" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sandeepkuamr2018063068@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://linkedin.com/in/sandeepkumar-b93a861a4" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" /></a>
+ <a href="mailto:sandeepkuamr2018063068@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" /></a>
+<a href="" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a> 
+  <a href="" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
+ <a href="https://linkedin.com/in/sandeepkumar-b93a861a4" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" alt="c++" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br />
 
 ## 🧰 Languages and Tools:
