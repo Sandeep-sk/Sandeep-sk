@@ -6,5 +6,6 @@
 <a href="https://github.com/Sandeep-sk/Post-man-clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=Post-man-clone"></a>
 <a href="https://github.com/Sandeep-sk/College-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=College-library"></a>
 <a href="https://github.com/Sandeep-sk/CV-Scanner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=CV-Scanner"></a>
-<a href="https://github.com/Sandeep-sk/drag-and-drop-picture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=drap-and-drop-picture"></a>
-<a href="https://github.com/Sandeep-sk/Webcalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=Webcaculator"></a>
+<a href="https://github.com/Sandeep-sk/drag-and-drop-picture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=drag-and-drop-picture"></a>
+<a href="https://github.com/Sandeep-sk/Webcalculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=Webcalculator"></a>
+<a href="https://github.com/Sandeep-sk/keep-notes-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandeep-sk&repo=keep-notes-website"></a>
