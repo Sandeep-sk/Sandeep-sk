@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm SANDEEP KUMAR
 I'm currently learning ML.
 Looking forword to learn React and Django framework soon.
 Want to collaborate with anyone on projects.
@@ -11,8 +11,8 @@ Ask me about anything if i know i can tell you.
 <p align="center">
 <a href="https://linkedin.com/in/sandeep-kumar-b93a861a4" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" /></a>
  <a href="mailto:sandeepkuamr2018063068@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" /></a>
-<a href="" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a> 
-  <a href="" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
+<a href="https://twitter.com/@Sandeep60558003" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a> 
+  <a href="https://t.me/@sandy_913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
 </p>
 <br />
 
