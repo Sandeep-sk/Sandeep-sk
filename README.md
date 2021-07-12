@@ -9,9 +9,9 @@ Ask me about anything if i know i can tell you.
 ## ✉️ Find me on:
 
 <p align="center">
-<a href="https://linkedin.com/in/sandeep-kumar-b93a861a4" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" /></a>
+<a href="https://linkedin.com/in/sandeep913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" /></a>
  <a href="mailto:sandeepkuamr2018063068@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" /></a>
-<a href="https://twitter.com/@Sandeep60558003" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a> 
+<a href="https://twitter.com/sandeepk913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a> 
   <a href="https://t.me/sandy_913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
 </p>
 <br />
@@ -29,7 +29,21 @@ Ask me about anything if i know i can tell you.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<!-- 100daysofcode start -->
+<!-- Left badge -->
 
+<a href="https://www.software.com/100-days-of-code">
+    <img src="https://www.software.com/badges/100-days-of-code" />
+</a>
+
+<!-- Right badge -->
+
+<a href="https://www.100daysofcode.com">
+    <img
+        src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
+    />
+</a>
+<!-- 100daysofcode end -->
 <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-sk&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-sk&layout=compact&langs_count=10&show_icons=true&theme=algolia">
 <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-sk">
