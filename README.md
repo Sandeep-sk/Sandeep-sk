@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm SANDEEP KUMAR
-I'm currently learning ML.
-Looking forword to learn React and Django framework soon.
-Want to collaborate with anyone on projects.
-Ask me about anything if i know i can tell you.
+I'm currently learning Django.
+Looking forword to learn React and Angular framework soon.
+Trying to stay positive in any situation ...
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sandeep-sk.Sandeep-sk)
 [![Github](https://img.shields.io/github/followers/Sandeep-sk?label=Follow&style=social)](https://github.com/Sandeep-sk)
