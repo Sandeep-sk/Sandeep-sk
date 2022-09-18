@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm SANDEEP KUMAR
-I'm currently learning Django.
-Looking forword to learn React and Angular framework soon.
+I'm currently learning web socket.
+Looking forword to learn new technologies.
 Trying to stay positive in any situation ...
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sandeep-sk.Sandeep-sk)
