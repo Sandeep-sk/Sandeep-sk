@@ -28,21 +28,7 @@ Trying to stay positive in any situation ...
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-<!-- 100daysofcode start -->
-<!-- Left badge -->
 
-<a href="https://www.software.com/100-days-of-code">
-    <img src="https://www.software.com/badges/100-days-of-code" />
-</a>
-
-<!-- Right badge -->
-
-<a href="https://www.100daysofcode.com">
-    <img
-        src="https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com"
-    />
-</a>
-<!-- 100daysofcode end -->
 <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-sk&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-sk&layout=compact&langs_count=10&show_icons=true&theme=algolia">
 <img src="https://github-profile-trophy.vercel.app/?username=Sandeep-sk">
