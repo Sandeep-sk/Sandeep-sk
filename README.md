@@ -17,8 +17,8 @@ I'm currently learning new technologies and looking forward to expanding my know
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px;">
-<img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" height="40" style="vertical-align:top; margin:4px;background:white !important;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Php" height="40" style="vertical-align:top; margin:4px;background:white;">
+<img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" height="40" style="vertical-align:top; margin:4px;background:white;">
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" alt="Php" height="40" style="vertical-align:top; margin:4px;background:white;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
