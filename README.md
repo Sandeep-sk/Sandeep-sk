@@ -7,9 +7,9 @@ I'm currently learning new technologies and looking forward to expanding my know
 
 <p align="center">
 <a href="https://linkedin.com/in/sandeep913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50" title="LinkedIn" /></a>
- <a href="mailto:sandeepkuamr2018063068@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" /></a>
-<a href="https://twitter.com/sandeepk913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a> 
-  <a href="https://t.me/sandy_913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
+ <a href="mailto:sandyybnn@gmail.com" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="50" title="E-mail" /></a>
+<!--  <a href="https://twitter.com/sandeepk913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="50" /></a>  -->
+  <a href="https://t.me/captain_913" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="50" title="Telegram" /></a>
 </p>
 <br />
 
