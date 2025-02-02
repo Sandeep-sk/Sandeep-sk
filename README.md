@@ -15,10 +15,10 @@ I'm currently learning new technologies and looking forward to expanding my know
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" height="40" style="vertical-align:top; margin:4px;">
-<img src="https://static.codingforentrepreneurs.com/media/series/django-rest-framework-2022/73cb338f-9691-4f95-8895-50f4210ad803.jpg" alt="Django Rest Framework" height="40" style="vertical-align:top; margin:4px;background:white;">
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" alt="Php" height="40" style="vertical-align:top; margin:4px;background:white;">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django" title="Django" height="40" style="vertical-align:top; margin:4px;">
+<img src="https://static.codingforentrepreneurs.com/media/series/django-rest-framework-2022/73cb338f-9691-4f95-8895-50f4210ad803.jpg" alt="Django Rest Framework" title="Django Rest Framework" height="40" style="vertical-align:top; margin:4px;background:white;">
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" alt="Php" title="Php" height="40" style="vertical-align:top; margin:4px;background:white;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 
