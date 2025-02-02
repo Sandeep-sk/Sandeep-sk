@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm SANDEEP KUMAR
-I'm currently learning web socket.
-Looking forword to learn new technologies.
-Trying to stay positive in any situation ...
+I'm currently learning new technologies and looking forward to expanding my knowledge. I aim to stay positive in any situation ...
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sandeep-sk.Sandeep-sk)
 [![Github](https://img.shields.io/github/followers/Sandeep-sk?label=Follow&style=social)](https://github.com/Sandeep-sk)
